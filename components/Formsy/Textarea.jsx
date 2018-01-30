@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { HOC as hoc } from 'formsy-react'
 import classNames from 'classnames'
-import AutoresizeTextarea from 'react-textarea-autosize'
+import AutoresizeTextarea from 'react-autosize-textarea'
 
 class Textarea extends Component {
 

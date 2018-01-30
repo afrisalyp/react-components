@@ -82,6 +82,7 @@
     "react-select": "^0.9.1",
     "react-switch-button": "^1.1.2",
     "react-textarea-autosize": "^4.0.5",
+    "react-autosize-textarea": "^3.0.2",
     "react-transition-group": "^2.2.1",
     "redux-thunk": "^2.1.0",
     "tc-ui": "git+https://github.com/appirio-tech/tc-ui.git#feature/connectv2",
